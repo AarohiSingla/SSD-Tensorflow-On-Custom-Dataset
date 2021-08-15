@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>23.png</filename>
+	<path>D:\env_conda_1.14_for_SSD\SSD_CUSTOM\VOC2007\JPEGImages\23.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>239</width>
+		<height>211</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>earphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>3</ymin>
+			<xmax>210</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

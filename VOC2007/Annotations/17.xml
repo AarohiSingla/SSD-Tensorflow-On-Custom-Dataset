@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>17.png</filename>
+	<path>D:\env_conda_1.14_for_SSD\SSD_CUSTOM\VOC2007\JPEGImages\17.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>215</width>
+		<height>234</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>headphone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>1</ymin>
+			<xmax>200</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

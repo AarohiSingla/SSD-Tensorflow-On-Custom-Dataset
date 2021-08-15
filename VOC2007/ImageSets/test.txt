@@ -1,0 +1,3 @@
+VOC2007/JPEGImages/19.png
+VOC2007/JPEGImages/28.png
+VOC2007/JPEGImages/37.png
